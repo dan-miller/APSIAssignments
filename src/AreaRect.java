@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 public class AreaRect {
-
 	public static void main(String[] args) {
 		Scanner stdin = new Scanner(System.in);
 		System.out.println("Enter the length and width separated by a space:");
