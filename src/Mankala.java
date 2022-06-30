@@ -70,6 +70,7 @@ public class Mankala {
 					goAgain = true;
 					break;
 				}
+				
 				curPos = (curPos + 1) % 11;
 				pits[curPos]++;
 				stones--;
